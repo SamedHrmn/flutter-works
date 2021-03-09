@@ -1,9 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_work/model/motto_model.dart';
-import 'package:firebase_work/repository/my_repository.dart';
-import 'package:firebase_work/utils/locator.dart';
 import 'package:flutter/material.dart';
+
+import '../model/motto_model.dart';
+import '../repository/my_repository.dart';
+import '../utils/locator.dart';
 
 enum AppState { LOADING, LOADED, ERROR }
 

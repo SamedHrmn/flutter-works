@@ -1,8 +1,8 @@
-import 'package:firebase_work/model/motto_model.dart';
-import 'package:firebase_work/view/home_page.dart';
-import 'package:firebase_work/view_model/motto_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
+import 'view/home_page.dart';
+import 'view_model/motto_view_model.dart';
 
 class FormScreen extends StatefulWidget {
   final name;

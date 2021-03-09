@@ -1,5 +1,5 @@
-import 'package:firebase_work/form_screen.dart';
-import 'package:firebase_work/view_model/motto_view_model.dart';
+import '../form_screen.dart';
+import '../view_model/motto_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';

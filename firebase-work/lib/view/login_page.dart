@@ -1,9 +1,9 @@
-import 'package:firebase_work/form_screen.dart';
-import 'package:firebase_work/view/home_page.dart';
-import 'package:firebase_work/view/register_page.dart';
-import 'package:firebase_work/view_model/motto_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
+import '../view_model/motto_view_model.dart';
+import 'home_page.dart';
+import 'register_page.dart';
 
 class LoginPage extends StatefulWidget {
   @override

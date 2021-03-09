@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_work/model/motto_model.dart';
-import 'package:firebase_work/service/firebase_auth_service.dart';
-import 'package:firebase_work/utils/locator.dart';
+import '../model/motto_model.dart';
+import 'firebase_auth_service.dart';
+import '../utils/locator.dart';
 
 class FireStoreService {
   final _fireStoreService = FirebaseFirestore.instance;

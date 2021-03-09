@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_work/model/motto_model.dart';
-import 'package:firebase_work/service/firebase_auth_service.dart';
-import 'package:firebase_work/service/firestore_service.dart';
-import 'package:firebase_work/utils/locator.dart';
+
+import '../service/firebase_auth_service.dart';
+import '../service/firestore_service.dart';
+import '../utils/locator.dart';
 
 class Repository {
   final FirebaseAuthService? _firebaseAuthService = getIt<FirebaseAuthService>();
