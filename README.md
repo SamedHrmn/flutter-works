@@ -29,7 +29,7 @@
 <img src=https://user-images.githubusercontent.com/60006881/124907805-4143b200-dff1-11eb-9ead-3f40e9f67fcc.png width=300><br>
 
 * <h3>food_app_design</h3> This project created for Flutter design practicing. I used *curved_navigation_bar* and *carousel_slider* package.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/60006881/117586861-8c416600-b123-11eb-810d-3acba12aa261.png" width="300px"></img> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/60006881/117586873-9b281880-b123-11eb-8e3f-5bb449917dc7.png" width="300px"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/60006881/117586861-8c416600-b123-11eb-810d-3acba12aa261.png" width="300px"></img> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/60006881/117586873-9b281880-b123-11eb-8e3f-5bb449917dc7.png" width="300px"><br>
 
 * <h3>generic_http_model_basic</h3> This project implements generic type model for http responses. For requests I used jsonplaceholder service. File structures as following:
 <pre>
@@ -140,7 +140,9 @@ loadModel() async {
                 |__temperature_widget.dart
                 |__weather_condition_widget.dart
          main.dart
-</pre><br><br>
+</pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/60006881/124932357-ad331400-e00b-11eb-9e2e-0e7ff4d1dab3.png" width="300px"></img> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/60006881/124932566-dce21c00-e00b-11eb-85fe-930cd54b7e32.png" width="300px"><br>
+
 
 <h2>Licence</h2>
 MIT License
